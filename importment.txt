@@ -1,0 +1,24 @@
+oa                      用户名:chenzifei  密码:chenzifei123                PIN chenzifei123    
+
+Idea VS Eclipse快捷键   http://blog.csdn.net/dc_726/article/details/9531281
+
+Idea  快捷键整理：      http://blog.csdn.net/xuanze520/article/details/6773976
+
+
+
+VIM命令                 http://www.cnblogs.com/softwaretesting/archive/2011/07/12/2104435.html
+
+
+Delop                   svn://10.12.7.86/public/tools/Deploy
+
+
+倚天                    svn://10.12.7.86
+
+VPN地址：               http://10.12.0.151:5000/SoftWare/03 Office/VPN 
+VPN_Connect:            zjjx.svpn.wanmei.com
+
+
+服务器列表:             http://117.52.106.155:8008/serverList/ConfServerList.json
+
+
+打印机地址:             10.17.4.200
